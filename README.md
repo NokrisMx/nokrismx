@@ -6,6 +6,6 @@
  - Visita mi [portafolio web](https://cv-guevaraaldo-dev.netlify.app) 
 
  ## GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nokrismx&locale=es)](https://git.io/streak-stats)
+![nokrismx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nokrismx&locale=es&theme=gotham&hide_border=true)
 
-![nokrismx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nokrismx&locale=es&theme=default&show_icons=true&hide_border=true&layout=compact)
+![nokrismx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nokrismx&locale=es&theme=gotham&show_icons=true&hide_border=true&layout=compact)
